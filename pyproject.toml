@@ -1,0 +1,7 @@
+[project]
+name = "infrequent-trips"
+version = "0.1.0"
+description = "MOTIONTAG Infrequent Trip Identification"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
